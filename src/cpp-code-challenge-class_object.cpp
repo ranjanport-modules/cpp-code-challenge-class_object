@@ -6,6 +6,7 @@
 // Description : Program to apply class and object based function method.
 //============================================================================
 
+//here we can also use #include<bits/stdc++.h> 
 #include <iostream>
 #include <string>
 #include <unistd.h>
